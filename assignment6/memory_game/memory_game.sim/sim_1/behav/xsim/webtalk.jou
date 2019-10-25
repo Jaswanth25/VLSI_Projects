@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri Oct 25 23:14:32 2019
+# Process ID: 20272
+# Current directory: C:/Users/Jaswanth/memory_game/memory_game.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/Jaswanth/memory_game/memory_game.sim/sim_1/behav/xsim/xsim.dir/mem_game_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/Jaswanth/memory_game/memory_game.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/Jaswanth/memory_game/memory_game.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/Jaswanth/memory_game/memory_game.sim/sim_1/behav/xsim/xsim.dir/mem_game_behav/webtalk/xsim_webtalk.tcl -notrace

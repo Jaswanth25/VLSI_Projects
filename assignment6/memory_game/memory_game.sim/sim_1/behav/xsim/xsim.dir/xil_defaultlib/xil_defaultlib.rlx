@@ -1,0 +1,9 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/Jaswanth/memory_game/memory_game.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+C:/Users/Jaswanth/memory_game/memory_game.srcs/sources_1/new/compare.v,1572024592,verilog,,C:/Users/Jaswanth/memory_game/memory_game.srcs/sources_1/new/freq_divider.v,,compare,,,,,,,,
+C:/Users/Jaswanth/memory_game/memory_game.srcs/sources_1/new/freq_divider.v,1572023988,verilog,,C:/Users/Jaswanth/memory_game/memory_game.srcs/sources_1/new/lfsr.v,,freq_div,,,,,,,,
+C:/Users/Jaswanth/memory_game/memory_game.srcs/sources_1/new/lfsr.v,1572023876,verilog,,C:/Users/Jaswanth/memory_game/sources/memory_game.v,,lfsr,,,,,,,,
+C:/Users/Jaswanth/memory_game/sources/memory_game.v,1572023554,verilog,,,,mem_game,,,,,,,,
